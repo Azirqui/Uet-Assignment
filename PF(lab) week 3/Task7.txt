@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+main()
+{
+int MB;
+int Bits;
+cout <<"Enter Value: ";
+cin>>mb;
+Bits=1024*1024*8*mb;
+cout <<"Value is: "<<Bits;
+
+}

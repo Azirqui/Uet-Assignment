@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+main()
+{
+int lb;
+float kilogram;
+cout <<"Enter Weight: ";
+cin >>lb
+kilogram= lb*0.45;
+cout << "Result:"<<kilogram;
+
+}

@@ -1,0 +1,12 @@
+#include <iostream>
+using namespace std;
+main()
+{
+int Dollar;
+Dollar =200;
+int Input;
+cout <<"Enter Dollar: ";
+cin >> Input;
+
+
+}
