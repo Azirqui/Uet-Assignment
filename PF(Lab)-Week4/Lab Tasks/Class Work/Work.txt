@@ -1,0 +1,20 @@
+#include <iostream>
+using namespace std;
+main(){
+int a,b;
+int sum;
+int c,d;
+int product;
+cout<<"Enter first number: ";
+cin >>a;
+cout<<"Enter second number: "<<endl;
+cin >>b;
+sum=a+b;
+cout <<"Result: "<<sum;
+cout <<"Enter third number: ";
+cin >>c;
+cout<<"Enter forth number: ";
+cin >>d;
+product=c+d;
+cout<<"Result: "<<product;
+}
